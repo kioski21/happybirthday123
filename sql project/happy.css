@@ -1,0 +1,91 @@
+title{color:aqua }
+body{
+   background-image: url(20240928_175127.jpg) ;
+    background-attachment: fixed ;
+    background-repeat: no-repeat;
+    background-size: cover ;
+
+.topnav {
+    overflow: hidden;
+    background-color:bisque;
+
+}
+.topnav a
+{
+    float: right;
+    color: f2f2f2;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration:none;
+    font-size: 17px;
+}
+.topnav a:hover
+{
+    background-color: rgb(52, 188, 212);
+   
+}
+.topnav a.active
+{
+    background-color: 004AA6D;
+    color: rgb(211, 81, 81);
+}
+}
+  h1 
+  { 
+ color: blueviolet;
+ background-color:#A7C2CC; 
+ font-size: 50px;
+ text-align: center;
+ border: 10px;
+ border-radius: 2px; 
+ overflow: hidden;
+ margin: 70px;
+  margin-top: 2px ;
+     }
+
+h2 { 
+    color: blueviolet;
+    background-color:#A7C2CC;
+    font-size: 40px;
+    text-align: center;
+    margin: 70px;
+    margin-top: 2px;
+   }
+.h2wew :hover
+ {
+background-color: #fdf4dcc9;
+transition: ease-out;
+transition-duration: 1s;
+margin: 0;
+border: 5px;
+border-radius: 10px;
+ }
+p {
+   text-align: center;
+   background-color:#A7C2CC;
+   color: blueviolet;
+   font-size: 20px;
+   margin:70px;
+   margin-top: 2px; 
+  }
+  .h1wew :hover
+  {
+background-color:#fdf4dcc9;
+transition: ease-in;
+transition-duration: 1s;
+border: 5px;
+border-radius: 10px;
+margin: 0;
+
+  }
+  .pwew1 :hover
+   {
+background-color: #fdf4dcc9;
+transition: ease-out 2s;
+border:5px;
+border-radius: 10px;
+margin: 0;
+
+   }
+
+  
